@@ -1,0 +1,20 @@
+.welcomePageDiv{
+    padding: 0px 100px;
+}
+
+.welcomePageHead{
+    font: 600 24px robo sans, sans-serif;
+    color: cadetblue;
+    margin-top: 70px;
+    text-align: center;
+}
+
+.welcomePageText{
+    font-size: 18px;
+    color: rgb(55, 55, 55);
+    text-align: center;
+}
+
+.headspan{
+    color: slateblue;
+}
