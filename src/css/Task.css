@@ -1,0 +1,10 @@
+#taskHead {
+    font: 700 28px 'Courier New', Courier, monospace;
+    color: slateblue;
+    margin-top: 100px;
+}
+
+.taskdiv {
+    display: flex;
+    justify-content: center !important;
+}
