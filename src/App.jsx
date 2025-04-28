@@ -13,6 +13,7 @@ import Homepage from './Components/Homepage';
 import User from './Components/User';
 import Admin from './Components/Admin';
 import Manager from './Components/Manager';
+import UserInformation from './Components/UserInformation';
 
 function App() {
 
@@ -31,6 +32,8 @@ function App() {
           <Route path='/teams' element={<Teams />}></Route>
           <Route path='/TA' element={<TaskAssingned />}></Route>
           <Route path='/logout' element={<Logout />}></Route>
+          <Route path='/userinfo/:id' element={<UserInformation />}></Route>
+          {/* <Route path="/userinfo/:id" element={<UserInfo />} /> */}
 
           <Route path='/user' element={<User />}></Route>
           <Route path='/admin' element={<Admin />}></Route>

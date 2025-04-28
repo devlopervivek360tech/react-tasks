@@ -1,0 +1,20 @@
+.userinfohead {
+    font: 700 28px 'Courier New', Courier, monospace !important;
+    color: slateblue !important;
+    margin-top: 150px !important;
+}
+
+.goToUsers {
+    font: 700 28px roboto !important;
+    color: slateblue !important;
+}
+
+@media screen and (min-width:768px) {
+    .outerdiv {
+        margin: 0px 100px !important;
+    }
+
+    .userImg {
+        width: 350px;
+    }
+}
