@@ -1,0 +1,30 @@
+#userHead {
+    font: 700 28px 'Courier New', Courier, monospace;
+    color: slateblue;
+    margin-top: 100px;
+}
+
+.userdiv {
+    display: flex;
+    justify-content: center !important;
+}
+
+.card {
+    box-shadow: 1px 2px 10px rgb(115, 115, 115);
+}
+
+.card-title {
+    font: 600 23.8px fantasy;
+}
+
+.card-name {
+    font: 500 19px 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.card-mail {
+    font: 400 14px Georgia, 'Times New Roman', Times, serif;
+}
+
+.card-text {
+    font: 14px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
